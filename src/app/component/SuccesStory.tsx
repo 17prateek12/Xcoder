@@ -19,7 +19,7 @@ const SuccesStory = () => {
                         <div className='w-3/4'>
                             <p className='text-lg ml-6 mt-6'>There are many variations of passages of Lorem Ipsum available
                                 but the majority have suffered alteration in some form, by injected humour, or
-                                randomised words which don&apos;t look even slightly believable. If you are going to
+                                randomised words which don't look even slightly believable. If you are going to
                                 use a passage.</p>
                             <p className='mt-16 text-end font-bold'>-Abcdefgh Ijklmnop </p>
                             <p className='text-end'>Frontend Engineer</p>
