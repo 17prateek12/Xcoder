@@ -109,7 +109,7 @@ const WhiteBox = () => {
                             <p className='text-base'>cloud provider or tools.</p>
                         </div>
                         <div className='w-1/2 ml-24'>
-                            <img src='/preview.png' />
+                            <img src='/preview.png' alt='...' />
                         </div>
                     </div>
                     <div className='flex w-full mt-14'>
