@@ -9,7 +9,7 @@ const Self = () => {
                 <div>
                     <div className='w-96 h-28 bg-white rounded-2xl pt-4 pl-3'>
                         <div className='h-20 w-20 shadow-xl rounded-2xl flex justify-center'>
-                            <img src='/infrastructure.png' className='h-14 w-14 mt-auto' />
+                            <img src='/infrastructure.png' className='h-14 w-14 mt-auto' alt='...' />
                         </div>
                         <div className='h-20 -mt-16'>
                             <p className='text-2xl pl-24 font-bold'>Infrastructure</p>
@@ -18,7 +18,7 @@ const Self = () => {
                     </div>
                     <div className='w-96 h-28 bg-white rounded-2xl mt-8 pt-4 pl-3 '>
                         <div className='h-20 w-20 shadow-xl rounded-2xl flex justify-center'>
-                            <img src='/neural-network.png' className='h-14 w-14 mt-auto' />
+                            <img src='/neural-network.png' className='h-14 w-14 mt-auto' alt='...' />
                         </div>
                         <div className='h-20 -mt-16'>
                             <p className='text-2xl pl-24 font-bold'>Networking</p>
@@ -29,7 +29,7 @@ const Self = () => {
                 <div>
                     <div className='w-96 h-28 bg-white rounded-2xl ml-60 pt-4 pl-3'>
                         <div className='h-20 w-20 shadow-xl rounded-2xl flex justify-center'>
-                            <img src='/cyber-security.png' className='h-14 w-14 mt-auto' />
+                            <img src='/cyber-security.png' className='h-14 w-14 mt-auto' alt='...'/>
                         </div>
                         <div className='h-20 -mt-16'>
                             <p className='text-2xl pl-24 font-bold'>Security</p>
@@ -38,7 +38,7 @@ const Self = () => {
                     </div>
                     <div className='w-96 h-28 bg-white rounded-2xl mt-8 ml-60 pt-4 pl-3'>
                         <div className='h-20 w-20 shadow-xl rounded-2xl flex justify-center'>
-                            <img src='/development.png' className='h-14 w-14 mt-auto' />
+                            <img src='/development.png' className='h-14 w-14 mt-auto' alt='...' />
                         </div>
                         <div className='h-20 -mt-16'>
                             <p className='text-2xl pl-24 font-bold'>Applications</p>

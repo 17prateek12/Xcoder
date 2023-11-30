@@ -9,7 +9,7 @@ const Newsletter = () => {
         <div className='flex justify-center items-center'>
             <Box className='w-3/4 bg-blue-200 mt-20 rounded-3xl'>
                 <div className='flex justify-center mt-20'>
-                    <img src='/PaperPlane.png' />
+                    <img src='/PaperPlane.png' alt='...' />
                 </div>
                 <p className='text-5xl text-center text-black font-bold mt-14'>Subscribe to Our Newsletter & get the</p>.
                 <p className='text-5xl text-center text-black font-bold -mt-3'>Coupon code.</p>

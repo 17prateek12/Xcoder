@@ -11,6 +11,7 @@ const HiArya = () => {
                 />
                 <img src='/dashboard-2.png'
                     className='absolute bottom-0 left-0 -mb-4 -ml-56'
+                    alt='...'
                 />
                 <div className="w-32 h-20 absolute left-0 top-0 -ml-64 bg-blue-600 rounded-full rounded-tr-3xl rounded-br-full rounded-bl-full">
                 </div>
@@ -18,6 +19,7 @@ const HiArya = () => {
                 </div>
                 <img src='/dashboard-3.png'
                     className='absolute top-0 right-0 -mt-4 -mr-56'
+                    alt='...'
                 />
                 <div className="w-32 h-20 absolute right-0 bottom-0 -mr-64 md:rotate-180 bg-blue-600 rounded-full rounded-tr-3xl rounded-br-full rounded-bl-full">
                 </div>

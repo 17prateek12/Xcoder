@@ -10,11 +10,11 @@ const SuccesStory = () => {
             <p className='text-5xl text-blue-800 mt-10 text-center font-bold'>See Our Success Stories</p>
             <div className='flex justify-center items-center mt-44'>
                 <Avatar className='bg-blue-700 mr-6'>
-                    <img src='/Fleft.png' />
+                    <img src='/Fleft.png' alt='...'/>
                 </Avatar>
                 <div className='flex justify-start h-64 w-1/2'>
                     <div className='w-2/12 bg-blue-600 rounded-l-3xl'>
-                        <img src='/fff.png' className='mt-24 ml-14' />
+                        <img src='/fff.png' className='mt-24 ml-14' alt='...' />
                     </div>
                     <div className='flex w-10/12 box shadow-2xl rounded-r-3xl'>
                         <div className='w-3/4'>
@@ -29,7 +29,7 @@ const SuccesStory = () => {
                     </div>
                 </div>
                 <Avatar className='bg-blue-700 ml-6'>
-                    <img src='/Fright.png' />
+                    <img src='/Fright.png' alt='...'/>
                 </Avatar>
             </div>
             <div className='flex justify-center mt-8 mx-auto'>

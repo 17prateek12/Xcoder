@@ -6,13 +6,13 @@ const Wxerocode = () => {
       <div className='w-1/2 text-center'>
       <p className='text-3xl'>Without Xerocodee</p>
       <div className='flex justify-center'>
-      <img src='/without.png' />
+      <img src='/without.png' alt='...' />
       </div>
       </div>
       <div className='w-1/2 text-center'>
       <p className='text-3xl'>With Xerocodee</p>
       <div className='flex justify-center'>
-      <img src='/with.png' />
+      <img src='/with.png' alt='...' />
       </div>
       </div>
     </div>

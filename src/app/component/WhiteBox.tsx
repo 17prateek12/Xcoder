@@ -8,7 +8,7 @@ const WhiteBox = () => {
             <Box className='w-3/4 bg-white mt-20 rounded-3xl'>
                 <div className='text-4xl mt-24 font-bold flex justify-center space-x-3'>
                     <p>The Xerocodee way </p>
-                    <img src='/Rocket.png' />
+                    <img src='/Rocket.png' alt='...'/>
                 </div>
                 <div className='w-3/4 m-auto mt-40'>
                     <div className='text-center mx-auto w-full h-1/2'>
@@ -22,7 +22,7 @@ const WhiteBox = () => {
                             <Button className='bg-white text-black hover:bg-blue-500 px-8 hover:text-white'>Your Cloud</Button>
                             <Button className='bg-white text-black hover:bg-blue-500 px-8 hover:text-white'>Infra Components</Button>
                             <Button className='bg-white text-black hover:bg-blue-500 px-8 hover:text-white'>Self-hosted Apps</Button>
-                            <img src='/cloud.png' className='m-auto' />
+                            <img src='/cloud.png' className='m-auto' alt='...' />
                         </div>
                         <div className='w-1/2'>
                             <p className='text-xl text-blue-900 font-bold ml-2 mt-40'>In Your Cloud</p>
@@ -39,7 +39,7 @@ const WhiteBox = () => {
                     </div>
                     <div className='flex w-full mt-14'>
                         <div className='w-1/2 ml-4'>
-                            <img src='/pipeline.png' />
+                            <img src='/pipeline.png' alt='...' />
                         </div>
                         <div className='w-1/2'>
                             <p className='text-xl text-blue-900 font-bold mb-4'>Configurable Build and Deploy pipelines</p>
@@ -56,12 +56,12 @@ const WhiteBox = () => {
                             <p className='text-base'>every push.</p>
                         </div>
                         <div className='w-1/2'>
-                            <img src='/deploy.png' />
+                            <img src='/deploy.png' alt='...' />
                         </div>
                     </div>
                     <div className='flex w-full mt-14'>
                         <div className='w-1/2 ml-4'>
-                            <img src='/tools.png' />
+                            <img src='/tools.png' alt='...'/>
                         </div>
                         <div className='w-1/2'>
                             <p className='text-xl text-blue-900 font-bold mb-4'>Multiple runtimes</p>
@@ -79,7 +79,7 @@ const WhiteBox = () => {
                             <p className='text-base'>resource limits, and health-check URL to further optimize application uptime.</p>
                         </div>
                         <div className='w-1/2'>
-                            <img src='/scale.png' />
+                            <img src='/scale.png' alt='...'/>
                         </div>
                     </div>
                 </div>
@@ -92,7 +92,7 @@ const WhiteBox = () => {
                     </div>
                     <div className='flex w-full mt-14'>
                         <div className='w-1/2 ml-40'>
-                            <img src='/cost.png' />
+                            <img src='/cost.png' alt='...'/>
                         </div>
                         <div className='w-1/2 -ml-40'>
                             <p className='text-xl text-blue-900 font-bold mb-4'>Customizable cost dashboards and reports</p>
@@ -119,7 +119,7 @@ const WhiteBox = () => {
                             <div className='w-5 h-16 bg-blue-500 mt-4'></div>
                             <div className='w-5 h-20 bg-blue-600'></div> 
                             <div className='ml-8'>
-                            <img src='/observability.png' />
+                            <img src='/observability.png' alt='...'/>
                             </div>
                         </div>
                         <div className='w-1/2 -ml-16'>

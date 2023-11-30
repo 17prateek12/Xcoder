@@ -15,7 +15,7 @@ const Bluebox = () => {
                 </div>
                 <div className='flex w-3/4 m-auto mt-44'>
                     <div className='w-3/4 -ml-20 -mt-6'>
-                        <img src='/real-time.png' />
+                        <img src='/real-time.png' alt='...'/>
                     </div>
                     <div className='-ml-10 mt-4'>
                         <p className='text-5xl font-bold'>Real-time Risk</p>
@@ -38,7 +38,7 @@ const Bluebox = () => {
                         <p>assign, and track tasks.</p>
                     </div>
                     <div>
-                        <img src='/collaboration.png' />
+                        <img src='/collaboration.png' alt='...'/>
                     </div>
                 </div>
             </Box>
